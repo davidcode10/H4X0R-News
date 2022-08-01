@@ -1,4 +1,4 @@
-# H4X0R-News
+# H4X0R News
 
 Top Hacker News app for developers using SwiftUI and Algolia REST API 
 
